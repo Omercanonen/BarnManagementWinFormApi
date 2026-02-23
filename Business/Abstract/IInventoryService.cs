@@ -1,0 +1,14 @@
+﻿using Business.DTOs;
+
+namespace Business.Abstract
+{
+    public interface IInventoryService
+    {
+        Task<List<InventoryItemDto>> GetInventoryAsync(int barnId);
+        Task<SellPreviewDto?> GetSellPreviewAsync(int barnId, int productId);
+        Task<bool> SellAsync(SellRequestDto request);
+        Task<bool> SellAllAsync(int barnId, int productId, string? soldByUserId);
+        Task<string> ExportSalesJsonAsync(int barnId, DateTime? fromUtc = null, DateTime? toUtc = null);
+
+    }
+}

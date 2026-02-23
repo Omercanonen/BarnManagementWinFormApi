@@ -1,0 +1,41 @@
+[2026-02-20 12:43:52] ERROR - An error occurred during API login. | Exception: No connection could be made because the target machine actively refused it. (localhost:7281)
+[2026-02-20 12:45:49] ERROR - An error occurred during API login. | Exception: No connection could be made because the target machine actively refused it. (localhost:7281)
+[2026-02-20 12:50:33] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:10:13] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:39:35] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:43:29] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:45:32] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:54:19] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 13:54:42] INFO - User 'user' logged in successfully via API.
+[2026-02-20 13:58:23] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:01:11] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:02:50] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:08:28] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:08:54] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 14:09:39] INFO - User 'test' logged in successfully via API.
+[2026-02-20 14:31:04] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:32:44] INFO - User 'user' logged in successfully via API.
+[2026-02-20 14:55:56] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:02:31] ERROR - An error occurred during API login. | Exception: Login failed (401): Invalid username or password
+[2026-02-20 15:02:36] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:21:45] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:22:05] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 15:22:17] INFO - User 'test' logged in successfully via API.
+[2026-02-20 15:32:00] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:35:10] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:36:58] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:37:22] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 15:50:41] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:51:58] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:54:18] INFO - User 'user' logged in successfully via API.
+[2026-02-20 15:58:47] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:05:41] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:07:12] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:07:56] INFO - User 'admin' logged in successfully via API.
+[2026-02-20 16:08:17] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:18:13] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:21:46] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:31:31] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:37:01] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:42:41] INFO - User 'user' logged in successfully via API.
+[2026-02-20 16:46:45] INFO - User 'user' logged in successfully via API.

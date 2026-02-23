@@ -1,0 +1,920 @@
+[2026-02-23 08:31:45] WARNING - No producible animals found
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:45] WARNING - No producible animals found
+[2026-02-23 08:31:45] WARNING - No producible animals found
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:45] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] WARNING - No producible animals found
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] WARNING - No producible animals found
+[2026-02-23 08:31:55] WARNING - No producible animals found
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:31:55] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] WARNING - No producible animals found
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] WARNING - No producible animals found
+[2026-02-23 08:32:05] WARNING - No producible animals found
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:05] INFO - Production cycle accumulated
+[2026-02-23 08:32:08] INFO - Collect called with empty list
+[2026-02-23 08:32:08] INFO - Collect called with empty list
+[2026-02-23 08:32:15] WARNING - No producible animals found
+[2026-02-23 08:32:15] INFO - Production cycle accumulated
+[2026-02-23 08:32:16] INFO - Production cycle accumulated
+[2026-02-23 08:32:16] WARNING - No producible animals found
+[2026-02-23 08:32:16] WARNING - No producible animals found
+[2026-02-23 08:32:16] INFO - Production cycle accumulated
+[2026-02-23 08:32:16] INFO - Production cycle accumulated
+[2026-02-23 08:32:16] INFO - Production cycle accumulated
+[2026-02-23 08:32:16] INFO - Production cycle accumulated
+[2026-02-23 08:32:18] INFO - Operation completed successfully.
+[2026-02-23 08:32:21] INFO - Operation completed successfully.
+[2026-02-23 08:32:26] WARNING - No producible animals found
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:32:26] INFO - 1 animals ready for production
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:32:26] WARNING - No producible animals found
+[2026-02-23 08:32:26] WARNING - No producible animals found
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:32:26] INFO - Production cycle accumulated
+[2026-02-23 08:36:22] WARNING - No producible animals found
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:23] WARNING - No producible animals found
+[2026-02-23 08:36:23] WARNING - No producible animals found
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:23] INFO - Production cycle accumulated
+[2026-02-23 08:36:33] WARNING - No producible animals found
+[2026-02-23 08:36:33] INFO - Production cycle accumulated
+[2026-02-23 08:36:33] INFO - Production cycle accumulated
+[2026-02-23 08:36:33] WARNING - No producible animals found
+[2026-02-23 08:36:33] WARNING - No producible animals found
+[2026-02-23 08:36:34] INFO - Production cycle accumulated
+[2026-02-23 08:36:34] INFO - Production cycle accumulated
+[2026-02-23 08:36:34] INFO - Production cycle accumulated
+[2026-02-23 08:36:34] INFO - Production cycle accumulated
+[2026-02-23 08:36:48] WARNING - No producible animals found
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:49] WARNING - No producible animals found
+[2026-02-23 08:36:49] WARNING - No producible animals found
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:49] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] WARNING - No producible animals found
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] WARNING - No producible animals found
+[2026-02-23 08:36:59] WARNING - No producible animals found
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:36:59] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] WARNING - No producible animals found
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] WARNING - No producible animals found
+[2026-02-23 08:37:09] WARNING - No producible animals found
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:09] INFO - Production cycle accumulated
+[2026-02-23 08:37:20] WARNING - No producible animals found
+[2026-02-23 08:37:21] INFO - Production cycle accumulated
+[2026-02-23 08:37:21] INFO - Production cycle accumulated
+[2026-02-23 08:37:21] WARNING - No producible animals found
+[2026-02-23 08:37:21] WARNING - No producible animals found
+[2026-02-23 08:37:21] INFO - Production cycle accumulated
+[2026-02-23 08:37:21] INFO - Production cycle accumulated
+[2026-02-23 08:37:22] INFO - Production cycle accumulated
+[2026-02-23 08:37:22] INFO - Production cycle accumulated
+[2026-02-23 08:44:25] WARNING - No producible animals found
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] WARNING - No producible animals found
+[2026-02-23 08:44:26] INFO - 1 animals ready for production
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:26] INFO - Production cycle accumulated
+[2026-02-23 08:44:33] INFO - Collect called with empty list
+[2026-02-23 08:44:33] INFO - Collect called with empty list
+[2026-02-23 08:44:36] WARNING - No producible animals found
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] WARNING - No producible animals found
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:36] INFO - Production cycle accumulated
+[2026-02-23 08:44:39] INFO - Operation completed successfully.
+[2026-02-23 08:44:39] INFO - Operation completed successfully.
+[2026-02-23 08:44:43] INFO - Operation completed successfully.
+[2026-02-23 08:44:43] INFO - Operation completed successfully.
+[2026-02-23 08:44:46] WARNING - No producible animals found
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] WARNING - No producible animals found
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:46] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] WARNING - No producible animals found
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] WARNING - No producible animals found
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:44:56] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] WARNING - No producible animals found
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] WARNING - No producible animals found
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:06] INFO - Production cycle accumulated
+[2026-02-23 08:45:16] WARNING - No producible animals found
+[2026-02-23 08:45:16] INFO - Production cycle accumulated
+[2026-02-23 08:45:16] INFO - Production cycle accumulated
+[2026-02-23 08:45:16] WARNING - No producible animals found
+[2026-02-23 08:45:17] INFO - Production cycle accumulated
+[2026-02-23 08:45:17] INFO - Production cycle accumulated
+[2026-02-23 08:45:17] INFO - Production cycle accumulated
+[2026-02-23 08:45:17] INFO - Production cycle accumulated
+[2026-02-23 08:45:17] INFO - Production cycle accumulated
+[2026-02-23 09:07:34] WARNING - No producible animals found
+[2026-02-23 09:07:34] INFO - Production cycle accumulated
+[2026-02-23 09:07:34] INFO - Production cycle accumulated
+[2026-02-23 09:07:34] WARNING - No producible animals found
+[2026-02-23 09:07:34] INFO - Production cycle accumulated
+[2026-02-23 09:07:35] INFO - Production cycle accumulated
+[2026-02-23 09:07:35] INFO - Production cycle accumulated
+[2026-02-23 09:07:35] INFO - Production cycle accumulated
+[2026-02-23 09:07:35] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] WARNING - No producible animals found
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] WARNING - No producible animals found
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:45] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] WARNING - No producible animals found
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] WARNING - No producible animals found
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:07:55] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] WARNING - No producible animals found
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] WARNING - No producible animals found
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:31:13] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] WARNING - No producible animals found
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] WARNING - No producible animals found
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:33:57] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] WARNING - No producible animals found
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] WARNING - No producible animals found
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:34:07] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] WARNING - No producible animals found
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] WARNING - No producible animals found
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:47] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] WARNING - No producible animals found
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] WARNING - No producible animals found
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:35:57] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] WARNING - No producible animals found
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] WARNING - No producible animals found
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:07] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] WARNING - No producible animals found
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] WARNING - No producible animals found
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:18] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] WARNING - No producible animals found
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] WARNING - No producible animals found
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:28] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] WARNING - No producible animals found
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] WARNING - No producible animals found
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:38] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] WARNING - No producible animals found
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] WARNING - No producible animals found
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:36:48] INFO - Production cycle accumulated
+[2026-02-23 09:37:38] WARNING - No producible animals found
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] WARNING - No producible animals found
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:39] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] WARNING - No producible animals found
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] WARNING - No producible animals found
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:37:49] INFO - Production cycle accumulated
+[2026-02-23 09:38:19] WARNING - No producible animals found
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] WARNING - No producible animals found
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:20] INFO - Production cycle accumulated
+[2026-02-23 09:38:23] INFO - Collect called with empty list
+[2026-02-23 09:38:30] WARNING - No producible animals found
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] WARNING - No producible animals found
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:30] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] WARNING - No producible animals found
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] WARNING - No producible animals found
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:40] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] WARNING - No producible animals found
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] WARNING - No producible animals found
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:38:50] INFO - Production cycle accumulated
+[2026-02-23 09:39:00] WARNING - No producible animals found
+[2026-02-23 09:39:00] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] WARNING - No producible animals found
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:01] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] WARNING - No producible animals found
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] WARNING - No producible animals found
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:11] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] WARNING - No producible animals found
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] WARNING - No producible animals found
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:21] INFO - Production cycle accumulated
+[2026-02-23 09:39:29] WARNING - No producible animals found
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] WARNING - No producible animals found
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:30] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] WARNING - No producible animals found
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] WARNING - No producible animals found
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:39:40] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] WARNING - No producible animals found
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] WARNING - No producible animals found
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:31] INFO - Production cycle accumulated
+[2026-02-23 09:40:36] INFO - Collect called with empty list
+[2026-02-23 09:40:41] WARNING - No producible animals found
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] WARNING - No producible animals found
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:41] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] WARNING - No producible animals found
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] WARNING - No producible animals found
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:40:54] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] WARNING - No producible animals found
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] WARNING - No producible animals found
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:04] INFO - Production cycle accumulated
+[2026-02-23 09:41:14] WARNING - No producible animals found
+[2026-02-23 09:41:14] INFO - Production cycle accumulated
+[2026-02-23 09:41:14] INFO - Production cycle accumulated
+[2026-02-23 09:41:14] WARNING - No producible animals found
+[2026-02-23 09:41:14] INFO - Production cycle accumulated
+[2026-02-23 09:41:15] INFO - Production cycle accumulated
+[2026-02-23 09:41:15] INFO - Production cycle accumulated
+[2026-02-23 09:41:15] INFO - Production cycle accumulated
+[2026-02-23 09:41:15] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] WARNING - No producible animals found
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] WARNING - No producible animals found
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:25] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] WARNING - No producible animals found
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] WARNING - No producible animals found
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:35] INFO - Production cycle accumulated
+[2026-02-23 09:41:36] INFO - Collect called with empty list
+[2026-02-23 09:41:45] WARNING - No producible animals found
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] WARNING - No producible animals found
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:45] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] WARNING - No producible animals found
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] WARNING - No producible animals found
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:41:55] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] WARNING - No producible animals found
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] WARNING - No producible animals found
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:05] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] WARNING - No producible animals found
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] WARNING - No producible animals found
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:15] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] WARNING - No producible animals found
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] WARNING - No producible animals found
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:26] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] WARNING - No producible animals found
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] WARNING - No producible animals found
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:36] INFO - Production cycle accumulated
+[2026-02-23 09:42:37] INFO - Collect called with empty list
+[2026-02-23 09:42:46] WARNING - No producible animals found
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] WARNING - No producible animals found
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:42:46] INFO - Production cycle accumulated
+[2026-02-23 09:43:32] WARNING - No producible animals found
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] WARNING - No producible animals found
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:33] INFO - Production cycle accumulated
+[2026-02-23 09:43:37] INFO - Collect called with empty list
+[2026-02-23 09:43:43] WARNING - No producible animals found
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] WARNING - No producible animals found
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:43:43] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] WARNING - No producible animals found
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] WARNING - No producible animals found
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:40] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] WARNING - No producible animals found
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] WARNING - No producible animals found
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:47:50] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] WARNING - No producible animals found
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] WARNING - No producible animals found
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:00] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] WARNING - No producible animals found
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] WARNING - No producible animals found
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:10] INFO - Production cycle accumulated
+[2026-02-23 09:48:20] WARNING - No producible animals found
+[2026-02-23 09:48:20] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] WARNING - No producible animals found
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:21] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] WARNING - No producible animals found
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] WARNING - No producible animals found
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:31] INFO - Production cycle accumulated
+[2026-02-23 09:48:40] INFO - Collect called with empty list
+[2026-02-23 09:48:41] WARNING - No producible animals found
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] WARNING - No producible animals found
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:41] INFO - Production cycle accumulated
+[2026-02-23 09:48:51] WARNING - No producible animals found
+[2026-02-23 09:48:51] INFO - Production cycle accumulated
+[2026-02-23 09:48:51] INFO - Production cycle accumulated
+[2026-02-23 09:48:51] WARNING - No producible animals found
+[2026-02-23 09:48:51] INFO - Production cycle accumulated
+[2026-02-23 09:48:51] INFO - Production cycle accumulated
+[2026-02-23 09:52:34] WARNING - No producible animals found
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] WARNING - No producible animals found
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:35] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] WARNING - No producible animals found
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] WARNING - No producible animals found
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:45] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] WARNING - No producible animals found
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] WARNING - No producible animals found
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:52:55] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] WARNING - No producible animals found
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] WARNING - No producible animals found
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] INFO - 1 animals died
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:05] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] WARNING - No producible animals found
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] WARNING - No producible animals found
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:15] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] WARNING - No producible animals found
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] WARNING - No producible animals found
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:25] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Collect called with empty list
+[2026-02-23 09:53:35] WARNING - No producible animals found
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] WARNING - No producible animals found
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:35] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] WARNING - No producible animals found
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] WARNING - No producible animals found
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:46] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] WARNING - No producible animals found
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] WARNING - No producible animals found
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 09:53:56] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:19] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:29] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:39] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:49] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:03:59] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:09] INFO - Production cycle accumulated
+[2026-02-23 10:04:18] INFO - Production collect completed
+[2026-02-23 10:04:19] INFO - Production cycle accumulated
+[2026-02-23 10:04:19] INFO - Production cycle accumulated
+[2026-02-23 10:04:19] INFO - Production cycle accumulated
+[2026-02-23 10:04:20] INFO - Production cycle accumulated
+[2026-02-23 10:04:20] INFO - Production cycle accumulated
+[2026-02-23 10:04:20] INFO - Production cycle accumulated
+[2026-02-23 10:04:20] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:30] INFO - Production cycle accumulated
+[2026-02-23 10:04:39] INFO - Production collect completed
+[2026-02-23 10:04:39] INFO - Production collect completed
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:40] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:50] INFO - Production cycle accumulated
+[2026-02-23 10:04:53] INFO - Operation completed successfully.
+[2026-02-23 10:04:54] INFO - Operation completed successfully.
+[2026-02-23 10:04:56] INFO - Operation completed successfully.
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:05:00] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:17] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:17:27] INFO - 1 animals died
+[2026-02-23 10:17:27] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - 1 animals died
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:32] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:42] INFO - Production cycle accumulated
+[2026-02-23 10:28:52] INFO - Production cycle accumulated
+[2026-02-23 10:28:52] INFO - Production cycle accumulated
+[2026-02-23 10:28:52] INFO - Production cycle accumulated
+[2026-02-23 10:28:52] INFO - Production cycle accumulated
+[2026-02-23 10:28:52] INFO - Production cycle accumulated
+[2026-02-23 10:28:53] INFO - Production cycle accumulated
+[2026-02-23 10:28:53] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:03] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - 2 animals died
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - 1 animals died
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:13] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - 1 animals died
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:23] INFO - Production cycle accumulated
+[2026-02-23 10:29:32] INFO - Production collect completed
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 10:29:34] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:07:59] INFO - Production cycle accumulated
+[2026-02-23 11:08:09] INFO - Production cycle accumulated
+[2026-02-23 11:08:09] INFO - Production cycle accumulated
+[2026-02-23 11:08:09] INFO - Production cycle accumulated
+[2026-02-23 11:08:10] INFO - Production cycle accumulated
+[2026-02-23 11:08:10] INFO - Production cycle accumulated
+[2026-02-23 11:08:10] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:36] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:09:46] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:01] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:10:11] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:17] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:13:27] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:14:50] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:00] INFO - Production cycle accumulated
+[2026-02-23 11:15:02] INFO - Production collect completed
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:15:10] INFO - Production cycle accumulated
+[2026-02-23 11:19:20] INFO - Production cycle accumulated
+[2026-02-23 11:19:20] INFO - Production cycle accumulated
+[2026-02-23 11:19:20] INFO - Production cycle accumulated
+[2026-02-23 11:19:20] INFO - Production cycle accumulated
+[2026-02-23 11:19:21] INFO - Production cycle accumulated
+[2026-02-23 11:19:21] INFO - Production cycle accumulated
+[2026-02-23 11:19:25] INFO - Production collect completed
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:31] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - 1 animals died
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
+[2026-02-23 11:19:57] INFO - Production cycle accumulated
