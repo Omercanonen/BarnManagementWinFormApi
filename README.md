@@ -103,6 +103,5 @@ BarnManagementWin
 │   ├── BackgroundJobs
 │   ├── Controllers
 │   ├── Program.cs
-│   └── WebAPI.http
-└── Solution.sln          
+│   └── WebAPI.http        
 ```
